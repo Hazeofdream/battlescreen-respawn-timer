@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Battlescreen Icon ID dumper
-// @description Basic utility plugin for Vehicle Respawn Timer for adding or updating icon ID's of vehicles
+// @description Increases the frequency of Vehicle Icons being updated, more smoothness
 // @version    0.1
 // @match      http://battlelog.battlefield.com/bf4/battlescreen/pwa/insecure/*
 // ==/UserScript==
