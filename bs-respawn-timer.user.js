@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        Battlescreen Vehicle Respawn Timer
 // @description Displays vehicle respawn time on Battlescreen
-// @author      Andersso
+// @author      Andersso, Haze_of_dream
 // @version     0.4
-// @match       https://battlelog.battlefield.com/bf4/*
+// @match       http://battlelog.battlefield.com/bf4/battlescreen/pwa/insecure/*
 // @grant       unsafeWindow
 // ==/UserScript==
 (function() {
